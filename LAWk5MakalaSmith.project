@@ -25,30 +25,6 @@
             "while",
             "while.json"
           ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "for",
-            "for.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "calc",
-            "calc.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "strings",
-            "strings.json"
-          ]
         }
       ],
       "configxml": null,
